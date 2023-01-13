@@ -1,0 +1,8 @@
+I meet some trouble when using the node.js to save message in function.
+So I have to use user.json to save json data temperately.
+Just temperately，the data has been saved into the database.
+And I find there is a bug in the netlify but it is no problem in my local address.
+It is too difficult to fix it. I think it may because the file operation.
+The data from the database may not appear in https://1155181315-asg4-eclt5830.netlify.app.
+But it could appear in the production mode.
+All the function has been finished.

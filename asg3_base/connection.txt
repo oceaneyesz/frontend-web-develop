@@ -1,0 +1,2 @@
+1b: mongodb+srv://s1155181315:1qaz2wsx@eclt5830.7o6pwsm.mongodb.net/my_asg3_db?retryWrites=true&w=majority
+1c: mongodb+srv://s1155181315_read:1qaz2wsx@eclt5830.7o6pwsm.mongodb.net/my_asg3_db?retryWrites=true&w=majority
